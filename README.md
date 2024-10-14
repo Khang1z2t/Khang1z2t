@@ -35,10 +35,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yunok"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yunok" /></a><a href="https://ko-fi.com/yunok"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yunok" /></a></p><br><br>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khang1z2t&show_icons=true&locale=en&layout=compact" alt="khang1z2t" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khang1z2t&show_icons=true&locale=en" alt="khang1z2t" /></p>
-
-
-
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=khang1z2t&show_icons=true&locale=en" alt="khang1z2t" /></p>
