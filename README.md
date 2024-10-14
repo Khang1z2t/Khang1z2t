@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuno</h1>
+<h1 align="center">Hi there, I'm Yuno</h1>
 <h3 align="center">A passionate back developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khang1z2t&label=Profile%20views&color=0e75b6&style=flat" alt="khang1z2t" /> </p>
