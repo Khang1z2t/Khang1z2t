@@ -40,5 +40,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khang1z2t&show_icons=true&locale=en" alt="khang1z2t" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khang1z2t&" alt="khang1z2t" /></p>
+
 
