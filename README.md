@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kbao040@gmail.com**
 
-- ⚡ Fun fact **I like code game and want to learn about code game**
+- ⚡ Fun fact **I like code games and want to learn about code games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
