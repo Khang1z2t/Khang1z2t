@@ -61,9 +61,6 @@
 </div>
 
 
-## Discord Presence
-[![Discord Presence](https://lanyard.cnrad.dev/api/628955171107635259?borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/628955171107635259)
-
 ### Thanks for reading my profile <3
 ---
 [![](https://visitcount.itsvg.in/api?id=Khang1z2t&icon=0&color=11)](https://visitcount.itsvg.in)
