@@ -1,66 +1,67 @@
-# Hello! I'm Yuno.
-<br/>
+# Hi, I'm Bao Khang 👋
+
 <img src="assets/about-me-banner.png" width="550" />
 
-- 🔭 Student from <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/FPT_Polytechnic.png" width="50"/> FPT Polytechnic, <img src="https://i.imgur.com/3KyfuCu.png" width="20" /> Vietnam.
-- 👯 Started learning application programming in December 2022.
-- 🌱 Currently learning about Java, Spring Boot, some databases, game development, etc...
-- 💬 I play a few games. Some of them are Genshin and Honkai Star Rail, etc...
-- ⚡ Aiming to become a games developer for a Big Tech company.
+- 🎓 Graduate from FPT Polytechnic — Software Development (GPA: 3.54/4)
+- 💼 9-month production internship at **FPT IS**, maintaining e-form banking systems for **ACB Bank**
+- 🔭 Currently building fullstack products with **Java Spring Boot + ReactJS**
+- 🚀 Seeking a **Junior Fullstack / Backend role** in Ho Chi Minh City
+- 🌐 Portfolio: [portfolio.khangyuno.id.vn](https://portfolio.khangyuno.id.vn)
 
-## Socials:
-- [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:kbao040@gmail.com) 
-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/628955171107635259) 
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yuno1z2t) 
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khang_1z2t) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunok) 
+## Socials
 
-## Github Stats:
-<a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Khang1z2t&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/></a>
-<a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khang1z2t&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a>
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:khangbao3008@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunok)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yuno1z2t)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khang_1z2t)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/628955171107635259)
 
-## Technologies I've used, learned or had experiences
+## GitHub Stats
+
+<a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Khang1z2t&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/></a>
+<a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khang1z2t&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></a>
+
+## Tech Stack
+
 <div align="center">
+
 <p><b><i>Languages</i></b></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" title="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="40" height="40" title="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" title="Java" />
-<br/>
-<p><b><i>Frameworks, Platforms & Libraries</i></b></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" title="Angular" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" title="Bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40" title="jQuery" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40" title="NPM" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title=Node.js />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" height="40" title="OpenCV" />
+
+<p><b><i>Frontend</i></b></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="ReactJS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" title="Tailwind CSS" />
+
+<p><b><i>Backend</i></b></p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot" />
 <img src="https://img.icons8.com/?size=256&id=rHpveptSuwDz&format=png" width="40" height="40" title="JWT" />
-<br/>
-<p><b><i>Databases</i></b></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" title="Microsoft SQL Server" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" />
-<br/>
-<p><b><i>Utilities & Others</i></b></p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40" height="40" title="Apache Maven" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original.svg" width="40" height="40" title="Apache Tomcat" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" width="40" height="40" title="Adobe After Effects" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" title="Adobe Photoshop" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" width="40" height="40" title="Adobe Premier Pro" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" height="40" title="Canva" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" title="Figma" />
+
+<p><b><i>Database & Caching</i></b></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40" height="40" title="Redis" />
+
+<p><b><i>DevOps & Tools</i></b></p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub Actions" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="40" height="40" title="JetBrains IDEs" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" width="40" height="40" title="Discord.js" />
-<br/>
-<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" title="Figma" />
+
 </div>
 
+## Featured Projects
 
-### Thanks for reading my profile <3
+| Project | Stack | Link |
+|---|---|---|
+| 🌏 **Pacific Travel** — Tour booking platform with AI recommendations | Spring Boot, ReactJS, Redis, Docker | [Repo](https://github.com/Khang1z2t/Pacific) · [Live](https://pacifictravel.id.vn) |
+| 📚 **BookStore** — Ecommerce + admin workflow with Keycloak & Camunda | Spring Boot, ReactJS, PostgreSQL | [Repo](https://github.com/Khang1z2t/BookStore) |
+| 🏦 **ACB Bank E-Form** — Production banking system at FPT IS internship | Enterprise Java, Banking standards | Internal |
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Khang1z2t&icon=0&color=11)](https://visitcount.itsvg.in)
